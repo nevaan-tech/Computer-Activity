@@ -130,10 +130,7 @@ display: none;
     display: none;
 }
 
-img {
-    width: -100px;
-    height: 100px;
-}
+
 @media (max-width: 960px){
 header .navigation{
     display: none;
@@ -221,3 +218,8 @@ header .logo{
     }
 
 }
+.responsive{
+    width: 100%;
+  height: auto;
+}
+
